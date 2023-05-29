@@ -4,7 +4,7 @@ Sup! I'm a 15 year old indie developer from NJ, and coding is practically my lif
 
 check out my [twitter](https://twitter.com/Vishrut97442) and my [linkedin](https://www.linkedin.com/in/vishrut-thoutam-246027245/)! Connect with me anytime if ur bored :)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VisH317&show_icons=true&theme=radical)
 <!--
 **VisH317/VisH317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
